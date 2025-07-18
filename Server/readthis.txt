@@ -1,1 +1,0 @@
-Donot put the Sever folder here. Extract contents of Server.zip and paste here
